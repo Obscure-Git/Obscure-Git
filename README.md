@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Obscure-Git/Obscure-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Obscure! 👨‍🎓
 
-Here are some ideas to get you started:
+I am a **Student**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to Work on Cool Projects.
+<br>
+
+## My Interests 
+
+**Web Development, UI / UX, Cyber Security and Scripting**.
+<br>
+
+## My Skills 
+
+**HTML5, CSS3, Python, JavaScript**
+
+**Git, VS Code, Figma**
+
+**Currently Learning: React JS**
+<br>
+
+## My Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Obscure-Git&show_icons=true&theme=tokyonight&icon_color=79A1F7&hide_border=true&bg_color=1A1B27&text_color=C0C9F5&title_color=08C294&custom_title=Obscure-Git">
+
+</div>
