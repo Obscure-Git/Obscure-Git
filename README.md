@@ -41,7 +41,7 @@ I like to Work on Cool Projects. 👍
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obscure-Git&icon_color=79A1F7&hide_border=true&background=1A1B27&ring=08C294&currStreakNum=C0C9F5&sideNums=C0C9F5&currStreakLabel=79A1F7&sideLabels=BA9AF7&dates=CBD4FF&stroke=C0C9F5&fire=FA8B00&theme=tokyonight">
 
-## My Socials
+## My Socials ✌
 
 <p>
 <a href="https://github.com/Obscure-Git"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
