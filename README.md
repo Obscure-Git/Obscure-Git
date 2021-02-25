@@ -41,4 +41,11 @@ I like to Work on Cool Projects. 👍
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obscure-Git&icon_color=79A1F7&hide_border=true&background=1A1B27&ring=08C294&currStreakNum=C0C9F5&sideNums=C0C9F5&currStreakLabel=79A1F7&sideLabels=BA9AF7&dates=CBD4FF&stroke=C0C9F5&fire=FA8B00&theme=tokyonight">
 
+## My Socials
+
+<p>
+<a href="https://github.com/Obscure-Git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://twitter.com/kritishd8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://dev.to/obscuregit" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a><a href="https://www.youtube.com/obscureyt" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><a href="https://open.spotify.com/user/vdpmcaybh04afqo5bsu3xwo2b?si=1807d3910c094398" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+
 </div>
+
