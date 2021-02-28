@@ -9,7 +9,7 @@ I like to Work on Cool Projects. 👍
 
 ## My Interests 🏸
 
-**Web Development, UI / UX, Cyber Security and Scripting**. 🕵️‍♂️
+**Web Development, UI / UX, Cyber Security and Scripting**. 🕵️
 <br>
 
 ## My Skills 🤹
