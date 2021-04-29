@@ -49,6 +49,7 @@ I like to Work on Cool Projects. 👍
 <a href="https://dev.to/obscuregit"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 <a href="https://www.youtube.com/obscureyt"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://open.spotify.com/user/vdpmcaybh04afqo5bsu3xwo2b?si=1807d3910c094398"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://discord.gg/EWfcVq7KvV"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 </div>
